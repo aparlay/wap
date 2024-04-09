@@ -4,7 +4,7 @@
 	"name": "WAPTAP",
 	"decimals": 0,
 	"logoURI": "https://raw.githubusercontent.com/aparlay/web3.php/master/wap.png",
-	"descriptiom": "$WAP is a next generation SocialFi token on Solana chain for rewarding content creators on Waptap.",
+	"description": "$WAP is a next generation SocialFi token on Solana chain for rewarding content creators on Waptap.",
 	"uri": "https://waptap.com/$wap",
 	"image": "https://raw.githubusercontent.com/aparlay/web3.php/master/wap.png",
 	"extensions": {
