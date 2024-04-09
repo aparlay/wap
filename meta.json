@@ -1,0 +1,16 @@
+{
+	"address": "Pexen8sHxoEkuss97yRm5JD7isRiYkYvcn5J8toAP65",
+	"symbol": "WAP",
+	"name": "WAPTAP",
+	"decimals": 0,
+	"logoURI": "https://raw.githubusercontent.com/aparlay/web3.php/master/wap.png",
+	"descriptiom": "$WAP is a next generation SocialFi token on Solana chain for rewarding content creators on Waptap.",
+	"uri": "https://waptap.com/$wap",
+	"image": "https://raw.githubusercontent.com/aparlay/web3.php/master/wap.png",
+	"extensions": {
+        	"discord": "https://discord.gg/ZuRe3ynP",
+		"telegram":"https://t.me/+G-UvDnkjhJJmNDQ9",
+        	"twitter": "https://twitter.com/waptap_token",
+        	"website": "https://waptap.com/$wap"
+	}
+}
